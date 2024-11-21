@@ -1,3 +1,10 @@
+body{
+font-family: ;
+margin-bottom: 100px;
+
+
+}
+
 section{
     background-color: blue;
 padding-top: 60px;
@@ -10,6 +17,7 @@ header{
 font-size: 40px;
 text-align: center;
 color: black;
+border-bottom: ;
 }
 img{
     height: 200px;
