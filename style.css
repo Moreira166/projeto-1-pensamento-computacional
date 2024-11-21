@@ -22,7 +22,7 @@ border-bottom: ;
 img{
     height: 200px;
 }
-.video{
+.categoria.video{
 display: flex;
 overflow-x: auto;
 gap: 10px;
